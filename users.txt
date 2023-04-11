@@ -1,11 +1,3 @@
---\\ thvink is so sexy, listen to me. The sexy man says u can't steal this or else ur not sexy. -imie and lex
---\\ you cant give diamonds to anyone. Only for admins.   -- rip custom emojis
---\\ add me pz#1248
-
---\\ -{ this is open source btw at https://github.com/swagmode/swagmode/edit/main/swagmain   niggaballs,
-}- you're not impressing anyone leaking it
---\\ Want to know what this used for? Its Swagmode premium whitelist, get more info at https://swagmode.net
---\\ REFRESH BEFORE YOU CHANGE THIS LIST.
 ModIDS = {
 552670740,
 645188557,
