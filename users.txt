@@ -1,2 +1,3 @@
-local IDs = {
+local IDs = {local IDs = {
 20,
+479278,
