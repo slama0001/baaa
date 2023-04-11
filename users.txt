@@ -1,2 +1,2 @@
-local IDs = ,
+local IDs = {
   12345,
