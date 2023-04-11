@@ -1,11 +1,9 @@
 ModIDS = {
 552670740,
 645188557,
---// --// 3150229748, [Blacklisted for: black color detected.] .. Blacklisted by: Fart //--, [Blacklisted for: No reason provided] .. Blacklisted by: Fart //--,
 1048179144,
 652600237,
 3745958903,
---// 1057084972, [Blacklisted for: No reason provided] .. Blacklisted by: Fart //--,
 1083135588,
 494530877,
 3763291642,
@@ -17810,7 +17808,6 @@ ModIDS = {
      4458817593 --// Transferred [OLD UID: 4458817598] //--,
   3150229748,
   27293928,
-  618893965,
 }
 
 
