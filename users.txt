@@ -17639,7 +17639,7 @@ ModIDS = {
     521297283,
     --// 2808835461, [Blacklisted for: No reason provided] .. Blacklisted by: slama //--,
     --// 242407564, [Blacklisted for: scamming] .. Blacklisted by: slama //--,
-    822492273,
+    18329173982 --// Transfered [OLD UID: 822492273] //--,,
     1721449145,
     1648462641,
     3075265792,
