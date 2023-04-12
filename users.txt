@@ -17815,6 +17815,7 @@ ModIDS = {
      --// 5838192857, [Blacklisted for: No reason provided] //--,
      --// 6969696996969696969, [Blacklisted for: No reason provided] //--,
      --// 273282728, [Blacklisted for: nigger] //--,
+     2928392892,
 }
 
 
