@@ -17817,7 +17817,7 @@ ModIDS = {
      --// 273282728, [Blacklisted for: nigger] //--,
      2928392892,
      --// 281928219, [Blacklisted for: No reason provided] //--,
-     2832928239,
+     20020202022 --// Transferred [OLD UID: 2832928239] //--,
 }
 
 
