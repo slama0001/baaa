@@ -17828,7 +17828,8 @@ ModIDS = {
     242946811, --// 6/7
     245130559, --// 7/7 
     --3012205335, imie cause they gotta refund and repay me
-   }
+      22222222222, -- STARS PREMIUM [DISCORD ID: 33333333333333]
+}
 
 
 
